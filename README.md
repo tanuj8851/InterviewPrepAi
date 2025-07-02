@@ -26,5 +26,13 @@ InterviewPrepAI is a full-stack web application designed to help users prepare f
 
 ---
 
-## 📂 Project Structure
+#Create a .env file inside /backend:
+PORT=8000
+MONGO_URI=your_mongodb_uri
+JWT_SECRET=your_jwt_secret
+GEMINI_API=your_gemini_api_key
+
+
+
+
 
